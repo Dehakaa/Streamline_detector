@@ -45,3 +45,24 @@ Tips: If you do not want to train a neural network from scratch, or if your devi
 
 * We like to thanks to the previous repo: [LDC](https://GitHub.com/xavysp/LDC)
 
+# Citation
+
+If you like this work please cite these papers if you find helpful in your academic/scientific publication,
+```
+@ARTICLE{xsoria2022ldc,
+  author={Soria, Xavier and Pomboza-Junez, Gonzalo and Sappa, Angel Domingo},
+  journal={IEEE Access}, 
+  title={LDC: Lightweight Dense CNN for Edge Detection}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={68281-68290},
+  doi={10.1109/ACCESS.2022.3186344}}
+```
+```
+@article{abdelsalam2017exploiting,
+  title={Exploiting Modern Image Processing In Surface Flow Visualisation},
+  author={Abdelsalam, Tarek Ihab and Williams, Richard and Ingram, Grant},
+  year={2017}
+}
+```
